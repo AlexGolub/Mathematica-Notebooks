@@ -1,2 +1,2 @@
-# Mathematica-Notebooks
-Solving math problems using Wolfram Mathematica.
+# Optimization
+Optimizing nonlinear objective function using Wolfram Mathematica programming language.
